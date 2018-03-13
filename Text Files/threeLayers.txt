@@ -1,0 +1,14 @@
+background 72 23 95
+oval name L11 layer 1 center-x 500 center-y 50 x-radius 100 y-radius 100 color 0 1 0
+from 1 to 300
+oval name L2 layer 2 center-x 50 center-y 500 x-radius 75 y-radius 75 color 1 0 0
+from 1 to 300
+oval name L3 layer 3 center-x 500 center-y 500 x-radius 50 y-radius 50 color 1 1 1
+from 1 to 300
+oval name L1 center-x 50 center-y 50 x-radius 100 y-radius 100 color 0 0 1
+from 1 to 300
+
+move name L1 moveto 50 50 300 300 from 1 to 300
+move name L11 moveto 500 50 50 500 from 1 to 300
+move name L2 moveto 50 500 500 50 from 1 to 300
+move name L3 moveto 500 500 50 50 from 1 to 300
